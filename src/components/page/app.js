@@ -1,12 +1,10 @@
-import React from 'react'
+import React from 'react';
+import ExempleUI from '../exemple/exempleUi';
 
-export default class App extends React.Component {
-
-    render(){
-        return(
-            <div>
-                Welcome in the React-Redux Template
-            </div>
-        )
-    }
-}
+const App = () => (
+    <React.Fragment>
+        App
+        <ExempleUI />
+    </React.Fragment>
+)
+export default App;

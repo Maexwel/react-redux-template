@@ -1,4 +1,4 @@
 const constants = {
     EXEMPLE: "EXEMPLE"
-}
-export default constants
+};
+export default constants;
