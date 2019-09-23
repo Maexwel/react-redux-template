@@ -1,4 +1,5 @@
 const constants = {
-    EXEMPLE: "EXEMPLE"
+    EXEMPLE: "EXEMPLE",
+    UPDATE_VIEW: "UPDATE_VIEW"
 };
 export default constants;

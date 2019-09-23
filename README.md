@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The goal of this project is to provide a fast creation of a React project with Redux and some other usefull library
+This project provide the usage of Design Theme|CSS base style 
+This project use Redux to connect the view
+This project use React
 
 ## Available Scripts
 

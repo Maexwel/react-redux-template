@@ -8,6 +8,7 @@ import { Provider } from 'react-redux';
 import storeFactory from './store/index';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './style/index.css';
 import { theme } from './theme';
 import { ThemeProvider } from 'emotion-theming';
 
